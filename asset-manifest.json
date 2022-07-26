@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recharges/static/css/main.3c883ae8.css",
+    "main.js": "/recharges/static/js/main.42db5d32.js",
+    "static/js/787.28cb0dcd.chunk.js": "/recharges/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/recharges/index.html",
+    "main.3c883ae8.css.map": "/recharges/static/css/main.3c883ae8.css.map",
+    "main.42db5d32.js.map": "/recharges/static/js/main.42db5d32.js.map",
+    "787.28cb0dcd.chunk.js.map": "/recharges/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c883ae8.css",
+    "static/js/main.42db5d32.js"
+  ]
+}
