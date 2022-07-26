@@ -1,0 +1,29 @@
+{
+	"Seed data": {
+		"prefix": "S_3.3",
+		"body": [
+		  "new User",
+		  "{",
+		  "    name = \"Andy\",",
+		  "    email = \"jorge@gmail.com\",",
+		  "    phone = \"7542689351\",",
+		  "    password = \"Andy1234!\",",
+		  "},",
+		  "new User",
+		  "{",
+		  "    name = \"Past Activity 1\",",
+		  "    email = \"jorge@gmail.com\",",
+		  "    phone = \"3052689351\",",
+		  "    password = \"Jorge1234!\",",
+		  "},",
+		  "new User",
+		  "{",
+		  "    name = \"Aida\",",
+		  "    email = \"aida@gmail.com\",",
+		  "    phone = \"3052684343\",",
+		  "    password = \"Aida1234!\",",
+		  "}"
+		],
+		"description": "Seed data"
+	  }
+}
